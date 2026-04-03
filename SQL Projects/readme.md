@@ -78,5 +78,5 @@ Both datasets are stored in the `PortfolioProject` SQL database.
 
 ## 📫 Contact
 - **LinkedIn:** [Aditya Chettipalli](https://www.linkedin.com/in/adityachettipalli/)  
-- **GitHub:** [github.com/YOUR_GITHUB_USERNAME](https://github.com/aditya-chettipalli)
+- **GitHub:** [github.com/aditya-chettipalli](https://github.com/aditya-chettipalli)
 
