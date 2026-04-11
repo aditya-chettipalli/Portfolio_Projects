@@ -1,4 +1,4 @@
-# COVID-19 Data Analysis & Vaccination Tracking 🦠📊
+# COVID-19 Data Exploration & Vaccination Tracking 🦠📊
 
 ## Overview
 This project analyzes global COVID-19 data to derive insights on infection rates, mortality, and vaccination progress. Using SQL, the project explores patterns across countries, continents, and the United States specifically, helping understand the pandemic's impact on populations and effectiveness of vaccination efforts.
